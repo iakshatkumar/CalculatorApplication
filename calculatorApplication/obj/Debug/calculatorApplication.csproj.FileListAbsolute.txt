@@ -1,0 +1,10 @@
+C:\Users\Akshat Kumar\source\repos\calculatorApplication\calculatorApplication\bin\Debug\calculatorApplication.exe.config
+C:\Users\Akshat Kumar\source\repos\calculatorApplication\calculatorApplication\bin\Debug\calculatorApplication.exe
+C:\Users\Akshat Kumar\source\repos\calculatorApplication\calculatorApplication\bin\Debug\calculatorApplication.pdb
+C:\Users\Akshat Kumar\source\repos\calculatorApplication\calculatorApplication\obj\Debug\calculatorApplication.csprojAssemblyReference.cache
+C:\Users\Akshat Kumar\source\repos\calculatorApplication\calculatorApplication\obj\Debug\calculatorApplication.Form1.resources
+C:\Users\Akshat Kumar\source\repos\calculatorApplication\calculatorApplication\obj\Debug\calculatorApplication.Properties.Resources.resources
+C:\Users\Akshat Kumar\source\repos\calculatorApplication\calculatorApplication\obj\Debug\calculatorApplication.csproj.GenerateResource.cache
+C:\Users\Akshat Kumar\source\repos\calculatorApplication\calculatorApplication\obj\Debug\calculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Akshat Kumar\source\repos\calculatorApplication\calculatorApplication\obj\Debug\calculatorApplication.exe
+C:\Users\Akshat Kumar\source\repos\calculatorApplication\calculatorApplication\obj\Debug\calculatorApplication.pdb
